@@ -1,0 +1,187 @@
+{
+    "columns": 14,
+    "level_number": 3,
+    "bricks": [
+        {
+            "position": 0,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 1,
+            "lives": 1,
+            "color": "red",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 2,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 5,
+            "lives": 1,
+            "color": "red",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 6,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 7,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 8,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+
+        {
+            "position": 11,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 12,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 13,
+            "lives": 1,
+            "color": "red",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 14,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 15,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 16,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "increase_board"
+        },
+        {
+            "position": 19,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 20,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "ball_slow"
+        },
+        {
+            "position": 21,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 22,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "increase_board"
+        },
+        {
+            "position": 25,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 26,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 27,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 28,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 29,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 30,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "ball_slow"
+        },
+        {
+            "position": 33,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 34,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 35,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 36,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 39,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 40,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 41,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        }
+    ]
+}

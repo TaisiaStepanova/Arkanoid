@@ -1,0 +1,11 @@
+{
+    "0": "Arcanoid",
+    "1": "The goal of the game is to destroy all the bricks by controlling the platform from which the ball bounces.",
+    "2": "Controls: platform movement to the left - left arrow ( <- );",
+    "3": "Platform movement to the right - right arrow ( -> )",
+    "4": "Bonuses: slowing down the ball - a black ball in a blue frame;",
+    "5": "Ball acceleration -- black ball in red frame;",
+    "6": "Increase in the number of balls - 3 balls in a blue frame;",
+    "7": "Platform extension - black platform in a blue frame;",
+    "8": "Platform reduction - a black platform in a red frame."
+}

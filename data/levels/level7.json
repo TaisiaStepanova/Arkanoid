@@ -1,0 +1,90 @@
+{
+    "columns": 14,
+    "level_number": 7,
+    "bricks": [
+        {
+            "position": 0,
+            "lives": 1,
+            "color": "red",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 13,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 15,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 26,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 30,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 39,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "ball_slow"
+        },
+        {
+            "position": 45,
+            "lives": 4,
+            "color": "green",
+            "bonus": "-"
+        },
+        {
+            "position": 52,
+            "lives": 4,
+            "color": "green",
+            "bonus": "-"
+        },
+        {
+            "position": 60,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+        {
+            "position": 65,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+        {
+            "position": 75,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "increase_board"
+        },
+        {
+            "position": 78,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 90,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 91,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "ball_fast"
+        }
+    ]
+}

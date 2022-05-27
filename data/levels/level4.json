@@ -1,0 +1,220 @@
+{
+    "columns": 14,
+    "level_number": 4,
+    "bricks": [
+        {
+            "position": 28,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "ball_slow"
+        },
+        {
+            "position": 29,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 30,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 31,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "ball_slow"
+        },
+        {
+            "position": 32,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 33,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 34,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+
+        {
+            "position": 42,
+            "lives": 4,
+            "color": "green",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 43,
+            "lives": 4,
+            "color": "green",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 44,
+            "lives": 4,
+            "color": "green",
+            "bonus": "ball_slow-"
+        },
+        {
+            "position": 45,
+            "lives": 4,
+            "color": "green",
+            "bonus": "increase_board"
+        },
+        {
+            "position": 46,
+            "lives": 4,
+            "color": "green",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 47,
+            "lives": 4,
+            "color": "green",
+            "bonus": "-"
+        },
+        {
+            "position": 48,
+            "lives": 4,
+            "color": "green",
+            "bonus": "double_ball"
+        },
+
+        {
+            "position": 56,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+        {
+            "position": 57,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "increase_board"
+        },
+        {
+            "position": 58,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+        {
+            "position": 59,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+        {
+            "position": 60,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 61,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 62,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+
+        {
+            "position": 70,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "increase_board"
+        },
+        {
+            "position": 71,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "-"
+        },
+        {
+            "position": 72,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "-"
+        },
+        {
+            "position": 73,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 74,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "ball_slow"
+        },
+        {
+            "position": 75,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 76,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "ball_fast"
+        },
+
+        {
+            "position": 84,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "increase_board"
+        },
+        {
+            "position": 85,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 86,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 87,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 88,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "ball_slow"
+        },
+        {
+            "position": 89,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 90,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "increase_board"
+        }
+    ]
+}

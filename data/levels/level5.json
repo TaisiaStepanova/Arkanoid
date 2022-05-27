@@ -1,0 +1,50 @@
+{
+    "columns": 14,
+    "level_number": 5,
+    "bricks": [
+
+        {
+            "position": 1,
+            "lives": 1,
+            "color": "red",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 16,
+            "lives": 2,
+            "color": "orange",
+            "bonus": "-"
+        },
+        {
+            "position": 31,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 55,
+            "lives": 4,
+            "color": "green",
+            "bonus": "-"
+        },
+        {
+            "position": 60,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 76,
+            "lives": 6,
+            "color": "blue",
+            "bonus": "-"
+        },
+        {
+            "position": 96,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "decrease_board"
+        }
+
+    ]
+}

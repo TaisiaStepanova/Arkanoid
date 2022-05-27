@@ -1,0 +1,90 @@
+{
+    "columns": 14,
+    "level_number": 1,
+    "bricks": [
+        {
+            "position": 84,
+            "lives": 1,
+            "color": "red",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 85,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 86,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 87,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 88,
+            "lives": 1,
+            "color": "red",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 89,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 90,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 91,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 92,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 93,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 94,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 95,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 96,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 97,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        }
+    ]
+}

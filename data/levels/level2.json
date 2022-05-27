@@ -1,0 +1,116 @@
+{
+    "columns": 14,
+    "level_number": 2,
+    "bricks": [
+
+
+        {
+            "position": 30,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 31,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 32,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 37,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 38,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "-"
+        },
+        {
+            "position": 39,
+            "lives": 3,
+            "color": "yellow",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 44,
+            "lives": 4,
+            "color": "green",
+            "bonus": "-"
+        },
+        {
+            "position": 45,
+            "lives": 4,
+            "color": "green",
+            "bonus": "-"
+        },
+        {
+            "position": 46,
+            "lives": 4,
+            "color": "green",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 51,
+            "lives": 4,
+            "color": "green",
+            "bonus": "ball_slow"
+        },
+        {
+            "position": 52,
+            "lives": 4,
+            "color": "green",
+            "bonus": "-"
+        },
+        {
+            "position": 53,
+            "lives": 4,
+            "color": "green",
+            "bonus": "-"
+        },
+        {
+            "position": 58,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+        {
+            "position": 59,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+        {
+            "position": 60,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "double_ball"
+        },
+        {
+            "position": 65,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 66,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "-"
+        },
+        {
+            "position": 67,
+            "lives": 5,
+            "color": "aqua",
+            "bonus": "ball_slow"
+        }
+    ]
+}

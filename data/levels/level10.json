@@ -1,0 +1,427 @@
+{
+    "columns": 14,
+    "level_number": 10,
+    "bricks": [
+        {
+            "position": 0,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+
+        {
+            "position": 1,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 2,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 3,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 4,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 5,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 6,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 7,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 8,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 9,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 10,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 11,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 12,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 13,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 14,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 15,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 16,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 17,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 18,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 19,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 20,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 21,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 22,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 23,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 24,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 25,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 26,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 27,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 28,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 29,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 30,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 31,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 32,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 33,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 34,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 35,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 36,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 37,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 38,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 39,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 40,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 41,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 42,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 43,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 44,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 45,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 46,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 47,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 48,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 49,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 50,
+            "lives": 1,
+            "color": "red",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 51,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 52,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 53,
+            "lives": 1,
+            "color": "red",
+            "bonus": "ball_fast"
+        },
+        {
+            "position": 54,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 55,
+            "lives": 1,
+            "color": "red",
+            "bonus": "-"
+        },
+        {
+            "position": 56,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 57,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "decrease_board"
+        },
+        {
+            "position": 58,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 59,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 60,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 61,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 62,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 63,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 64,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 65,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 66,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 67,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 68,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        },
+        {
+            "position": 69,
+            "lives": 7,
+            "color": "purple",
+            "bonus": "-"
+        }
+    ]
+}
